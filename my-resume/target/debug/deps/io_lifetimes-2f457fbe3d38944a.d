@@ -1,0 +1,10 @@
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/io_lifetimes-2f457fbe3d38944a.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/portability.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/traits.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/example_ffi.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/raw.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/views.rs
+
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/io_lifetimes-2f457fbe3d38944a.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/portability.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/traits.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/example_ffi.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/raw.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/views.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/portability.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/traits.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/example_ffi.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/raw.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.4/src/views.rs:

@@ -1,0 +1,10 @@
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/tokio_tungstenite-57817e7b1650db4d.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/compat.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/connect.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/handshake.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/stream.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/tls.rs
+
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/tokio_tungstenite-57817e7b1650db4d.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/compat.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/connect.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/handshake.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/stream.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/tls.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/compat.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/connect.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/handshake.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/stream.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/tls.rs:

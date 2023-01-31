@@ -1,0 +1,10 @@
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/os_str_bytes-a87cd53bf9e546fd.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/common/mod.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/common/raw.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/iter.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/pattern.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/raw_str.rs
+
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/os_str_bytes-a87cd53bf9e546fd.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/common/mod.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/common/raw.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/iter.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/pattern.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/raw_str.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/common/mod.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/common/raw.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/iter.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/pattern.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.4.1/src/raw_str.rs:

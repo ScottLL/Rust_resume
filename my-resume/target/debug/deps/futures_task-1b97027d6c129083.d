@@ -1,0 +1,11 @@
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/futures_task-1b97027d6c129083.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/arc_wake.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker_ref.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/Users/scottlai/Desktop/cording_project/Rust_resume-main/my-resume/target/debug/deps/futures_task-1b97027d6c129083.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/arc_wake.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker_ref.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/arc_wake.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker_ref.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs:
