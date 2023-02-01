@@ -1,5 +1,6 @@
 
 <h1 style="text-align: center;">Scott Lai</h1>
+
 ------------------------    ------------------------------------
 **Email**: [scott.lai@duke.edu](mailto:scott.lai@duke.edu) | Phone number: +1(352)-339-8629 | 
 [Personal Website](https://www.scottlai.com)| [Linkedin](https://www.linkedin.com/in/scottlaiq/)
