@@ -4,4 +4,3 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Scott's resume"
-base-url = "https://scottll.github.io/Rust_resume/"
