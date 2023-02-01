@@ -12,7 +12,7 @@
     </span>
 </p>
 
-<img src="./Duke-University-symbol.webp" alt="Image" class="img-responsive" style="width:250px; height:150px;">
+<img src="[duke](./Duke-University-symbol.webp)" alt="Image" class="img-responsive" style="width:250px; height:150px;">
 
 
 <p style="text-align:left;"> <b>University of Wisconsin-Madison | Madison, WI</b>
@@ -28,4 +28,4 @@
     </span>
 </p>
 
-<img src="./UW-Madison_logo-2.webp" alt="Image" class="img-responsive" style="width:250px; height:150px;">
+<img src="[uwm](./UW-Madison_logo-2.webp)" alt="Image" class="img-responsive" style="width:250px; height:150px;">

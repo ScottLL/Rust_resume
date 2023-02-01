@@ -16,9 +16,7 @@ test:
 	cargo test --quiet
 
 run:
-	cargo run
-
-release:
-	cargo build --release
+	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+	cargo install mdbook
 
 all: format lint test run
