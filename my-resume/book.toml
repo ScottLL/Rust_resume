@@ -5,3 +5,7 @@ multilingual = false
 src = "src"
 title = "Scott's resume"
 base-url = "https://github.com/ScottLL/Rust_resume"
+
+[server]
+host = "0.0.0.0"
+port = 3000
